@@ -1,0 +1,45 @@
+{
+    "header": {
+      "title": "Law Office",
+      "subtitle": "مكتب المحاماة",
+      "home": "Home",
+      "about": "About us",
+      "services": "Services",
+      "blog": "Blog",
+      "team": "Our Team",
+      "contact": "Contact us",
+      "search": "Search",
+      "bookAppointment": "Book Appointment",
+      "menu": "Menu"
+    },
+    "footer": {
+      "contacts": "Contacts",
+      "about": "About",
+      "strategy": "Our Strategy",
+      "advantages": "Our Advantages",
+      "socialResponsibility": "Social Responsibility",
+      "services": "Our Services",
+      "copyright": "© 2024. All rights reserved.",
+      "emailPlaceholder": "Email",
+      "subscribe": "Subscribe",
+      "subscribing": "Subscribing...",
+      "subscribeSuccess": "Successfully subscribed!",
+      "subscribeError": "Subscription failed. Please try again.",
+      "emailInvalid": "Invalid email address",
+      "emailRequired": "Email is required",
+      "emailExists": "Email already subscribed",
+      "serverError": "Server error. Please try again later.",
+      "networkError": "Network error. Please check your connection."
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "search": {
+      "placeholder": "Search...",
+      "no_results": "No results found",
+      "results_for": "Results for",
+      "team_members": "Team Members",
+      "services": "Services"
+    }
+  }

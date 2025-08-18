@@ -1,0 +1,45 @@
+{
+  "header": {
+    "title": "مكتب المحاماة",
+    "subtitle": "Law Office",
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "services": "الخدمات",
+    "blog": "المدونة",
+    "team": "فريقنا",
+    "contact": "اتصل بنا",
+    "search": "بحث",
+    "bookAppointment": "احجز موعد",
+    "menu": "القائمة"
+  },
+  "footer": {
+    "contacts": "جهات الاتصال",
+    "about": "من نحن",
+    "strategy": "استراتيجيتنا",
+    "advantages": "مزايانا",
+    "socialResponsibility": "المسؤولية الاجتماعية",
+    "services": "خدماتنا",
+    "copyright": "© 2024. جميع الحقوق محفوظة.",
+    "emailPlaceholder": "البريد الإلكتروني",
+    "subscribe": "اشتراك",
+    "subscribing": "جاري الاشتراك...",
+    "subscribeSuccess": "تم الاشتراك بنجاح!",
+    "subscribeError": "فشل الاشتراك. يرجى المحاولة مرة أخرى.",
+    "emailInvalid": "عنوان بريد إلكتروني غير صالح",
+    "emailRequired": "البريد الإلكتروني مطلوب",
+    "emailExists": "البريد الإلكتروني مشترك بالفعل",
+    "serverError": "خطأ في الخادم. يرجى المحاولة لاحقاً.",
+    "networkError": "خطأ في الشبكة. يرجى التحقق من الاتصال."
+  },
+  "team": {
+    "title": "فريقنا",
+    "description": "لوريم إيبسوم هو ببساطة نص وهمي لصناعة الطباعة والتنضيد."
+  },
+  "search": {
+    "placeholder": "بحث...",
+    "no_results": "لم يتم العثور على نتائج",
+    "results_for": "النتائج لـ",
+    "team_members": "أعضاء الفريق",
+    "services": "الخدمات"
+  }
+}
