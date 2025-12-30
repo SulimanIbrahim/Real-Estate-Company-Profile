@@ -1,4 +1,4 @@
-# Interview Task
+# Company Portfolio
 
 A modern, responsive multilingual website built with Next.js 14, TypeScript, and Strapi CMS. Features Arabic (RTL) and English (LTR) language support, dynamic content management, and professional legal firm design.
 
